@@ -1,0 +1,9 @@
+動作を確認した環境：Windows11のノートPC + mocopiデバイス（データを送信するためにiPhone13を使用）
+※データを送るために、ノートPCとiPhone（またはAndroid）を同じWifiに接続し、mocopiアプリとポート「12351」で接続で接続する必要があります。
+
+----- 使用したアセットについて -----
+ゲーム「Yoga Fighter」では、モバイルトラッキングデバイス「mocopi」を使用してプレイヤーのモデルを動かすために、mocopi公式の「mocopi Reciever Plugin for Unity」アセットを使用しています。
+また、スコアのカウントアップ表示に「DOTween」アセットを使用しています。
+
+mocopi Reciever Plugin for Unity：https://www.sony.net/Products/mocopi-dev/jp/documents/ReceiverPlugin/Unity/AboutPlugin.html
+DOTween：https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676

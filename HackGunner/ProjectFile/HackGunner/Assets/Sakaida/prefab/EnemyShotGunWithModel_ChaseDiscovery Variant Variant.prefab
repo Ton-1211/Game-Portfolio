@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8023559601247832424
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 30276447136822477, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f1b24071239d4a4aaac74b4462915b2, type: 2}
+    - target: {fileID: 664742783493289353, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 664742783493289353, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.216
+      objectReference: {fileID: 0}
+    - target: {fileID: 664742783493289353, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 804716329433298731, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_angle
+      value: 53.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 804716329433298731, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_distance
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055262877864056840, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f1b24071239d4a4aaac74b4462915b2, type: 2}
+    - target: {fileID: 2047314666303436268, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_Speed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4781220307562214829, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 4781220307562214829, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 4781220307562214829, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 4781220307562214829, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5070606513049012299, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: weaponData
+      value: 
+      objectReference: {fileID: 11400000, guid: 1248fa7e6e94f7642a32c76c7c14df9e, type: 2}
+    - target: {fileID: 5070606513049012299, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: firstShotIntarval
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5070606513049012299, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: defaultShotIntarval
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7199755588353856229, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_Name
+      value: EnemyShotGunWithModel_ChaseDiscovery Variant Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.029100418
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4999981
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.012089
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539442642854561887, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8652563833446204893, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8652563833446204893, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8652563833446204893, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8652563833446204893, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8827271648042758507, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: moveSpeed
+      value: 6.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8827271648042758507, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: rotationSpeed
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 8827271648042758507, guid: c847afde25ac2eb408370e8644888222, type: 3}
+      propertyPath: lockonIntarval
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c847afde25ac2eb408370e8644888222, type: 3}

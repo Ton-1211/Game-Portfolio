@@ -1,0 +1,16 @@
+動作を確認した環境：Windows11のデスクトップPC
+
+----- 操作方法 -----
+○UI
+上下移動：W（上）,S（下）
+決定：スペース
+○インゲーム
+左への攻撃：D,F
+右への攻撃：J,K
+ポーズメニューの表示：Esc
+
+----- 使用したアセット -----
+Midiファイルからノーツを生成するために、「MIDI Animation Track」アセットを使用しました。
+TimeLineでのMidiファイルの再生や音程によるシグナルの発火に使用しています。
+
+MIDI Animation Track：https://github.com/keijiro/MidiAnimationTrack

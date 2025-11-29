@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bca5a02060f406544935f645d9f5e346, type: 3}
+  m_Name: Mortar
+  m_EditorClassIdentifier: 
+  name: "\u8FEB\u6483\u7832"
+  id: 2
+  bulletPrefab: {fileID: 1769422712026113426, guid: 695ed0040ac83954eba614ba42aae781, type: 3}
+  maxBullet: 1
+  bulletSettings:
+  - diffusion: {x: 0, y: 0}
+    randomNess: 0
+  weaponRole: 0
+  weaponType: 4
+  weaponImage: {fileID: 0}
+  subWeapon: {fileID: 0}

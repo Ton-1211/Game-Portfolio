@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bca5a02060f406544935f645d9f5e346, type: 3}
+  m_Name: sakaida_Rifle
+  m_EditorClassIdentifier: 
+  name: "\u30E9\u30A4\u30D5\u30EB"
+  id: 0
+  bulletPrefab: {fileID: 2720097741136659255, guid: d41db175a025bc2468775c23509cfb2a, type: 3}
+  maxBullet: 5
+  bulletSettings:
+  - diffusion: {x: 0, y: 0}
+    randomNess: 0
+  weaponRole: 0
+  weaponType: 1
+  shotSound: {fileID: 8300000, guid: e0894d72d41ebbe49b525ac71176337b, type: 3}
+  weaponImage: {fileID: 21300000, guid: 07583d6656eff6f4a8b44bcefe39fcae, type: 3}
+  subWeapon: {fileID: 3993766834917909290, guid: 30da92c8251144147a072bfb64d2309a, type: 3}

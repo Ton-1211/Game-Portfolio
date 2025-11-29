@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 036e6e5dceac48040ab5ef31cffd706b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChaseEnemy: {fileID: 764085073311547460, guid: d4e82a18eead91c48b9872209990b41d, type: 3}
+  - patrolEnemy: {fileID: 4584851563842569468, guid: b57677518b6bfb54eaf42e423317cfa2, type: 3}
+  - StayEnemy: {fileID: 2882178713526567929, guid: 910f66cd97234f94da757a4084207875, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

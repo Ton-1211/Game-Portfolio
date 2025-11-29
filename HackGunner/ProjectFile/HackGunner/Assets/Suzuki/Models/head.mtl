@@ -1,0 +1,6 @@
+newmtl player
+map_Kd player_texyou_initialShadingGroup_BaseColor.png
+map_Pm player_texyou_initialShadingGroup_Metallic.png
+Kd 1 1 1
+d 1
+

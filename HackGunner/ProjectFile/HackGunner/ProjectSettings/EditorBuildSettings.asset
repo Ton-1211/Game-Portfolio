@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 54541e89e4c08ae47b8233412bd911c1
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 373ec15b8de6ff444951a808dc0c7ac4
+  - enabled: 1
+    path: Assets/Sakaida/Scene/MainGameTestMapVer2.unity
+    guid: 6f0e2c3bebbb2f5469540f4f6189c98c
+  - enabled: 1
+    path: Assets/Sakaida/Scene/SR_TutorialMap.unity
+    guid: c532126b22d797a4a933f3d299228ce2
+  - enabled: 1
+    path: Assets/Sakaida/Scene/SR_Map1.unity
+    guid: 1867f3b67e74d804191eb755358fa679
+  m_configObjects: {}

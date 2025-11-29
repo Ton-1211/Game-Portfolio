@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b60a22640db6824f9dd682f32905333
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerDamageClip: {fileID: 8300000, guid: df3c1ccbdcbb31646a600f86613b42b2, type: 3}
+  - rb: {instanceID: 0}
+  - bulletData: {instanceID: 0}
+  - particle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

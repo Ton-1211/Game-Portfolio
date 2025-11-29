@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d02ee993b8b72464baa50f05fc132ad4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - gunsUI: {instanceID: 0}
+  - enemyManager: {instanceID: 0}
+  - playerHead: {instanceID: 0}
+  - PlayerDamageClip: {fileID: 8300000, guid: 75067094ca4cde54cb931d063d569752, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
