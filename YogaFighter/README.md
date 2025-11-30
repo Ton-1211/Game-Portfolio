@@ -8,7 +8,7 @@
     - ゲーム全体の処理や管理の設計・実装
     - 敵弾の生成パターンを設定・JSON形式で出力・編集できるエディタツールの作成
 - **使用機材**:**[Sony mocopi]**(https://www.sony.co.jp/en/Products/mocopi-dev/jp/documents/Home/Aboutmocopi.html)
-- **使用プラグイン**：**[mocopi Receiver Pluguin for Unity]**(https://www.sony.co.jp/en/Products/mocopi-dev/jp/documents/ReceiverPlugin/Unity/AboutPlugin.html)
+- **使用プラグイン**：**[mocopi Receiver Pluguin for Unity]**(https://www.sony.co.jp/en/Products/mocopi-dev/jp/documents/ReceiverPlugin/Unity/AboutPlugin.html)  
 当初はNintendo SwitchのJoy-conを用いたトラッキングを考えていました。  
 しかし腕や足、頭等の全身の動きを使用者の負担をより少なくトラッキングするために、さらに軽量で小型なモーションキャプチャーデバイス「mocopi」を採用しています。  
 また、mocopiのスマートフォンアプリからトラッキング情報をUnityに通信しモデルに適用するため、上記プラグインを導入しています。
