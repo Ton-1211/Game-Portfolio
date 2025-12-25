@@ -24,16 +24,16 @@
 ![頭を投げて敵に乗り移る表現にしました。](ThrowHead.png)
 
 ## 動画ファイル・実行フォルダへのリンク
-- [動画ファイルはこちら](https://github.com/Ton-1211/DAG-programmer-task/blob/main/HackGunner/HackGunner%E3%83%97%E3%83%AC%E3%82%A4%E5%8B%95%E7%94%BB.mp4)
+- [動画ファイルはこちら](https://github.com/Ton-1211/Game-Portfolio/blob/main/HackGunner/HackGunner%E3%83%97%E3%83%AC%E3%82%A4%E5%8B%95%E7%94%BB.mp4)
 ※GitHub上では動画を再生できません。「View raw」を押してダウンロードして視聴をお願いします。
 
-- [実行フォルダはこちら](https://github.com/Ton-1211/DAG-programmer-task/tree/main/HackGunner/BuildFile(HackGunner))
+- [実行フォルダはこちら](https://github.com/Ton-1211/Game-Portfolio/tree/main/HackGunner/BuildFile(HackGunner))
 
 ## 主なソースコードの概要とリンク
 |スクリプト名（リンク）|概要|
 |:---|:---|
-|[BaseData.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/DataBase/Base/BaseData.cs)|データクラスの基底クラスです。|
-|[WeaponData.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/DataBase/Weapon/WeaponData.cs)|BaseDataの派生クラス、武器や発射する弾丸のデータクラスです。|
-|[GunStatus.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/GunStatus.cs)|銃の種類管理、発砲を行います。|
-|[PlayerRay.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Ebihara/Scripts/PlayerRay.cs)|視点による乗り移り、射撃の処理と、乗り移りの視点範囲拡大と射撃処理を担当しました。|
-|[GunUIScript.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/UI/GunUIScript.cs)|武器のUI表示です。|
+|[BaseData.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/DataBase/Base/BaseData.cs)|データクラスの基底クラスです。|
+|[WeaponData.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/DataBase/Weapon/WeaponData.cs)|BaseDataの派生クラス、武器や発射する弾丸のデータクラスです。|
+|[GunStatus.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/GunStatus.cs)|銃の種類管理、発砲を行います。|
+|[PlayerRay.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Ebihara/Scripts/PlayerRay.cs)|視点による乗り移り、射撃の処理と、乗り移りの視点範囲拡大と射撃処理を担当しました。|
+|[GunUIScript.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/HackGunner/ProjectFile/HackGunner/Assets/Suzuki/Scripts/UI/GunUIScript.cs)|武器のUI表示です。|

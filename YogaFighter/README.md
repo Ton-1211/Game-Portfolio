@@ -24,15 +24,15 @@
 ![表示された予測地点に実際に攻撃が到達している様子です。](Prediction.png)
 
 ## 動画ファイル・実行フォルダへのリンク
-- [動画ファイルはこちら](https://github.com/Ton-1211/DAG-programmer-task/blob/main/YogaFighter/YogaFighter_%E3%83%97%E3%83%AC%E3%82%A4%E5%8B%95%E7%94%BB.mp4)
+- [動画ファイルはこちら](https://github.com/Ton-1211/Game-Portfolio/blob/main/YogaFighter/YogaFighter_%E3%83%97%E3%83%AC%E3%82%A4%E5%8B%95%E7%94%BB.mp4)
 ※GitHub上では動画を再生できません。「View raw」を押してダウンロードして視聴をお願いします。
 
-- [実行フォルダはこちら](https://github.com/Ton-1211/DAG-programmer-task/tree/main/YogaFighter/BuildFile(YogaFighter))
+- [実行フォルダはこちら](https://github.com/Ton-1211/Game-Portfolio/tree/main/YogaFighter/BuildFile(YogaFighter))
 
 ## 主なソースコードの概要とリンク
 |スクリプト名（リンク）|概要|
 |:---|:---|
-|[GameFlowManager.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/GameFlow/GameFlowManager.cs)|ゲームの流れを行います。(リザルト表示も含む)|
-|[BOSSAttackJSONEditor.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/Editor/BossAttackJSONEditor.cs)|敵の攻撃の設定とJSONファイルへの書き出し、編集を行う|
-|[JSONReader.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/JSONReader.cs)|JSONファイルを読み込んで敵の攻撃を生成します。|
-|[AttackBulletScript.cs](https://github.com/Ton-1211/DAG-programmer-task/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/AttackBulletScript.cs)|敵弾の移動や吸収処理、到達予測地点の表示を行います。|
+|[GameFlowManager.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/GameFlow/GameFlowManager.cs)|ゲームの流れを行います。(リザルト表示も含む)|
+|[BOSSAttackJSONEditor.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/Editor/BossAttackJSONEditor.cs)|敵の攻撃の設定とJSONファイルへの書き出し、編集を行う|
+|[JSONReader.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/JSONReader.cs)|JSONファイルを読み込んで敵の攻撃を生成します。|
+|[AttackBulletScript.cs](https://github.com/Ton-1211/Game-Portfolio/blob/main/YogaFighter/ProjectFile/YogaFighter/Assets/Scripts/AttackBulletScript.cs)|敵弾の移動や吸収処理、到達予測地点の表示を行います。|
