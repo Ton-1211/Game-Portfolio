@@ -1,0 +1,16 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (x64\Release\) に別のプロジェクト (ProgramWorkshop2_Assignment.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Board.cpp
+  Grid.cpp
+  Mode.cpp
+  Player.cpp
+  source.cpp
+D:\就職活動関係\オセロ(C++)\オセロ\プロジェクトファイル\ProgramWorkshop2_Assignment\Player.cpp(34,64): warning C4267: '引数': 'size_t' から '_Ty' に変換しました。データが失われているかもしれません。
+D:\就職活動関係\オセロ(C++)\オセロ\プロジェクトファイル\ProgramWorkshop2_Assignment\Player.cpp(34,64): warning C4267:         with
+D:\就職活動関係\オセロ(C++)\オセロ\プロジェクトファイル\ProgramWorkshop2_Assignment\Player.cpp(34,64): warning C4267:         [
+D:\就職活動関係\オセロ(C++)\オセロ\プロジェクトファイル\ProgramWorkshop2_Assignment\Player.cpp(34,64): warning C4267:             _Ty=int
+D:\就職活動関係\オセロ(C++)\オセロ\プロジェクトファイル\ProgramWorkshop2_Assignment\Player.cpp(34,64): warning C4267:         ]
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 358 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  ProgramWorkshop2_Assignment.vcxproj -> D:\就職活動関係\オセロ(C++)\オセロ\プロジェクトファイル\x64\Release\Othello_Cpp.exe

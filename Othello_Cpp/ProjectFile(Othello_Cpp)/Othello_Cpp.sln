@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Othello_Cpp", "Othello_Cpp\Othello_Cpp.vcxproj", "{707ED082-5D03-476F-83A7-F2D1A9C02558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Debug|x64.ActiveCfg = Debug|x64
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Debug|x64.Build.0 = Debug|x64
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Debug|x86.ActiveCfg = Debug|Win32
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Debug|x86.Build.0 = Debug|Win32
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Release|x64.ActiveCfg = Release|x64
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Release|x64.Build.0 = Release|x64
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Release|x86.ActiveCfg = Release|Win32
+		{707ED082-5D03-476F-83A7-F2D1A9C02558}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B4F376-8705-42D1-8D41-73094D126AA0}
+	EndGlobalSection
+EndGlobal
