@@ -32,3 +32,10 @@
     - スプライト
     - インゲームのBGM
 - [作品フォルダへのリンク](https://github.com/Ton-1211/Game_Portfolio/tree/main/BeatSamurai)
+
+### [Othello_Cpp](https://github.com/Ton-1211/Game-Portfolio/tree/main/Othello_Cpp)
+- ローカルネットワーク対戦とCPU対戦が行えるオセロアプリ
+- 制作期間：1ヶ月（2023年7月）
+- チーム構成：1人（個人制作）
+- 開発環境：C++ /Visual Studio 2022
+-[作品フォルダへのリンク](https://github.com/Ton-1211/Game-Portfolio/tree/main/Othello_Cpp)
